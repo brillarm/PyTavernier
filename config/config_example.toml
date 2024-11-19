@@ -1,3 +1,7 @@
+[LOGGER]
+stdout_lvl = ""  # "TRACE" | "DEBUG" | "INFO" | "SUCCESS" | "WARNING" | "ERROR" | "CRITICAL"
+environnement = ""  # "DEV" | "PROD"
+
 [DISCORD]
 prefix = ""
 client_id = ""
