@@ -1,0 +1,19 @@
+[LOGGER]
+lvl           = ""  # "TRACE" | "DEBUG" | "INFO" | "SUCCESS" | "WARNING" | "ERROR" | "CRITICAL"
+max_lvl       = ""  # "TRACE" | "DEBUG" | "INFO" | "SUCCESS" | "WARNING" | "ERROR" | "CRITICAL"
+environnement = ""  # "DEV" | "PROD"
+
+[DISCORD]
+prefix    = ""
+client_id = ""
+guild_ids = [""]
+token     = ""
+
+[SPOTIFY]
+id     = ""
+secret = ""
+
+[ASSETS]
+flipcoin = "assets/flipcoin.gif"
+heads    = "assets/heads.jpg"
+tails    = "assets/tails.jpg"

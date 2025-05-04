@@ -3,7 +3,7 @@
 **/*.log
 **/.cache
 
-config/config.toml
+config/settings.toml
 
 # TODO : delete theses
 config/*.json
